@@ -95,8 +95,11 @@ ax2.set_title("Q-Q Plot")
 ```
 
 ## Output:
-![Uploading image.png…]()
-![Uploading image.png…]()
+<img width="418" height="340" alt="image" src="https://github.com/user-attachments/assets/c7a4c9b5-ac8f-41dd-84fd-06852492e3c2" />
+<img width="1219" height="570" alt="image" src="https://github.com/user-attachments/assets/53d71f60-1a39-4a66-b236-ddd2ecb149ad" />
+<img width="1279" height="754" alt="image" src="https://github.com/user-attachments/assets/d80f7c0c-9fc8-486c-8383-8112c6b223e4" />
+<img width="1369" height="668" alt="image" src="https://github.com/user-attachments/assets/dafed30b-76a8-46ee-83aa-de58ecc4c246" />
+
 
 
 
